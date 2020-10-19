@@ -134,8 +134,8 @@
   (dired-rainbow-define-chmod executable-unix "#77e323" "-.*x.*")
   (dired-rainbow-define sourcefile "#b4fa70" ("py" "cl" "el" "ruby" "java"
                                               "html" "xml"))
-  (dired-rainbow-define document "#fce94f" ("odt" "fodt" "ods" "pdf" "epub"))
-  (dired-rainbow-define media "#dfe3ee" ("mp3" "mp4" "MP3" "MP4" "avi" "mpg"
+  (dired-rainbow-define document "#f6830f" ("odt" "fodt" "ods" "pdf" "epub"))
+  (dired-rainbow-define media "#cc5961" ("mp3" "mp4" "MP3" "MP4" "avi" "mpg"
                                          "flv" "ogg" "mkv" "m4a"))
   (dired-rainbow-define image "#8b9dc3" ("jpg" "png" "jpeg" "gif"))
 
